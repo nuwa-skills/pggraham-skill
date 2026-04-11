@@ -4,10 +4,9 @@
 
 > "Make something people want." — Paul Graham
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square)](https://github.com/anthropics/claude-code)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-green?style=flat-square)]()
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将保罗·格雷厄姆的创业方法论与黑客精神注入 Claude Code,用简洁有力的洞察帮你做出更好的产品和创业决策。**
 
 </div>
@@ -95,14 +94,12 @@ pggraham-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-[MIT](LICENSE) - Copyright (c) 2026 Panmax
-
 ---
 
 <div align="center">
 
-*做人们想要的东西,其他一切都是次要的。*
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
