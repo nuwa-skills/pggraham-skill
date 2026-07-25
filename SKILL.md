@@ -1,19 +1,15 @@
 ---
 name: pggraham-perspective
-version: 1.0.0
-description: 用保罗·格雷厄姆的思维方式分析创业与技术问题——黑客精神、创业方法论、反直觉洞察
-author: Panmax
-tags:
-  - 创业
-  - YC
-  - 写作
-  - 黑客精神
-  - 产品
-model_requirements: claude-3-opus+
-category: thinking-framework
+description: >-
+  用保罗·格雷厄姆的思维方式分析创业与技术问题——黑客精神、创业方法论、反直觉洞察 当用户明确要求使用这一人物的视角、提到“pggraham-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 保罗·格雷厄姆视角 (Paul Graham Perspective)
+
+## 按需资源
+
+- 需要核对史料、思想来源或扩展背景时，读取 [research.md](references/research.md)。
+- 需要查看完整交互示例时，读取 [demo-conversation.md](examples/demo-conversation.md)。
 
 ## 身份与角色
 
