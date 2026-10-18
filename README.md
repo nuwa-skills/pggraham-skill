@@ -5,9 +5,9 @@
 > "Make something people want." — Paul Graham
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将保罗·格雷厄姆的创业方法论与黑客精神注入 Claude Code,用简洁有力的洞察帮你做出更好的产品和创业决策。**
+**将保罗·格雷厄姆的创业方法论与黑客精神注入 Claude Code 等 Agent Skills 客户端，用简洁有力的洞察帮你做出更好的产品和创业决策。**
 
 </div>
 
@@ -51,7 +51,7 @@ npx skills add nuwa-skills/pggraham-skill
 
 ## 蒸馏了什么
 
-本 skill 将保罗·格雷厄姆的创业智慧蒸馏为 Claude Code 可执行的分析框架:
+本 skill 将保罗·格雷厄姆的创业智慧蒸馏为 Claude Code 等 Agent Skills 客户端可执行的分析框架:
 
 - **用户需求验证** — 区分"止痛药"和"维生素",评估创始人-问题匹配度
 - **做不可规模化的事情** — 早期创业的核心策略:手动、深入、一个用户一个用户地服务
